@@ -1,4 +1,5 @@
 Kenyan Product Dataset
+
 What it is: A realistic mock catalog of products sold in Kenya. It shall be used as part of a online store chatbot.
 
 How it fits: This dataset is the brain of the chatbot. It’s where the chatbot gets product info to answer user queries.
